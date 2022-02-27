@@ -1,6 +1,6 @@
 
 const clientId = '186ee07447a44adda34a157609a51ed1';
-const redirectUri = 'http://bloody-skirt.surge.sh';
+const redirectUri = 'https://festive-rosalind-5c0d78.netlify.app/';
 
 let accessToken = '';
 

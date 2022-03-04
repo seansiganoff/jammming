@@ -1,6 +1,6 @@
 
 const clientId = '186ee07447a44adda34a157609a51ed1';
-const redirectUri = 'https://festive-rosalind-5c0d78.netlify.app/';
+const redirectUri = 'https://serene-wilson-a2b083.netlify.app/';
 
 let accessToken = '';
 
